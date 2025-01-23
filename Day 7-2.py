@@ -1,0 +1,1 @@
+df.head(20) # code to show the first 20 rows
